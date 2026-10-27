@@ -1,6 +1,6 @@
-# kpatel026.github.io
+# kypatel.github.io
 
-Personal academic website for Kushal Patel, served by GitHub Pages at https://kpatel026.github.io/.
+Personal academic website for Kushal Patel, served by GitHub Pages at https://kypatel.github.io/.
 
 Plain HTML and CSS, no build step.
 
